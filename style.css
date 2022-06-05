@@ -1,0 +1,120 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: gray !important;
+  
+}
+
+.jumbotron img {
+  margin-bottom: 100px;
+}
+
+.backgroundyey {
+  color: #4751649c;
+}
+
+.footer {
+  background-color: #231e2511;
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
+
+.search-box {
+  justify-content: center;
+}
+
+.search-box input {
+  height: 42px;
+  width: 550px;
+  border-radius: 20px;
+  padding-left: 50px;
+}
+
+.search-box button {
+  position: relative;
+  width: 160px;
+  height: 42px;
+  border-radius: 10px;
+  left: 30px;
+  top: -2px;
+  font-size: large;
+  border-color: #2b2020;
+  background-color: #332f47;
+}
+
+.bi-search {
+  position: relative;
+  top: -35px;
+  left: -330px;
+  color: black;
+}
+
+.footer p {
+  padding-top: 20px;
+}
+
+.box {
+  width: max-content;
+  height: auto;
+  margin: 20px;
+}
+
+/* Tentang */
+.tentang {
+  text-align: left;
+
+}
+
+.tentang h3 {
+  font-size: 52px;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-top: 30px;
+   color: #2F4F4F
+}
+
+.tentang h3 span {
+  font-weight: 500;
+  color: #2F4F4F
+}
+
+.tentang p {
+  font-size: 18px;
+
+  font-weight: 200;
+  margin: 25px 0;
+}
+
+.tentang img {
+  border-radius: 12px;
+}
+
+.hasil {
+  margin-top: 100px;
+}
+
+.rekom {
+  margin-top: 40px;
+}
+
+.key {
+  margin-left: 20px;
+}
+
+.key .inner {
+  overflow: hidden;
+}
+
+.inner img {
+  transition: all 1.5s ease;
+}
+
+.inner:hover img {
+  transform: scale(1.5);
+}
+
+.key img {
+  height: 150px;
+}

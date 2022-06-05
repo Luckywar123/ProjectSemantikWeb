@@ -1,0 +1,15 @@
+PREFIX p: <http://semweb.com>
+PREFIX d: <http://semweb.com/ns/data#>
+
+    SELECT ?Nama ?Jenis ?Keterangan ?Pengawet ?Usia ?Harga 
+    WHERE
+    { 
+        ?s  d:Nama ?Nama ;
+            d:Jenis ?Jenis;
+            d:Keterangan ?Keterangan;
+            d:Pengawet ?Pengawet;
+            d:Usia ?Usia;
+            d:Harga ?Harga;
+            
+
+    }

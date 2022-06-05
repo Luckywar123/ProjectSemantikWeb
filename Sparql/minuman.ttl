@@ -1,0 +1,212 @@
+@prefix p: <http://semweb.com>.
+@prefix d: <http://semweb.com/ns/data#>.
+
+p:P01        d:Nama	        "Teh Celup Sariwangi 25s" ;
+             d:Jenis       	"Minuman Teh" ;
+             d:Keterangan   "1 pack isi 25" ;
+             d:Pengawet     "Alami";
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia";
+             d:Harga        "Rp6.250".
+
+p:P02        d:Nama	        "Teh Celup Sariwangi 50s" ;
+             d:Jenis       	"Minuman Teh" ;
+             d:Keterangan   "1 pack isi 50" ;
+             d:Pengawet     "Alami" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp11.500" .
+
+p:P03        d:Nama	        "Teh Celup Tomg Tji Ori" ;
+             d:Jenis       	"Minuman Teh" ;
+             d:Keterangan   "1 pack isi 25" ;
+             d:Pengawet     "Alami" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp7.500" .
+
+p:P04        d:Nama	        "Teh Celup Poci" ;
+             d:Jenis       	"Minuman Teh" ;
+             d:Keterangan   "1 pack isi 25" ;
+             d:Pengawet     "Alami" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp7.000" .
+
+p:P05        d:Nama	        "Teh Celup Poci Vanilla" ;
+             d:Jenis       	"Minuman Teh" ;
+             d:Keterangan   "1 pack isi 25" ;
+             d:Pengawet     "Alami" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp7.000" .
+
+p:P06        d:Nama	        "Sirup Marjan" ;
+             d:Jenis       	"Minuman Sirup" ;
+             d:Keterangan   "Sirup,Bebas Kafein, Menu Sehat, Bebas Laktosa, Rendah Lemak, Rendah Sodium,Varian Coco Pandan,Melon" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp22.000" .
+
+p:P07        d:Nama	        "Choco Pie Marshmellow" ;
+             d:Jenis       	"Snack" ;
+             d:Keterangan   "Cemilan,Coklat,Isi 6" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp20.000" .
+
+p:P08        d:Nama	        "Fruit Tea Apple Kaleng 300ml" ;
+             d:Jenis       	"Minuman Kaleng" ;
+             d:Keterangan   "Fruit Tra Apple,Ukuran 300ml, 1 Dus Isi 24 Kaleng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp99.500" .
+
+p:P09        d:Nama	        "Nescafe Original" ;
+             d:Jenis       	"Minuman Kaleng" ;
+             d:Keterangan   "Nescafe,Ukuran 300ml, 1 Dus Isi 12 Kaleng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Dewasa" ;
+             d:Harga        "Rp120.000" .
+
+p:P10        d:Nama	        "Milo" ;
+             d:Jenis       	"Minuman Kaleng" ;
+             d:Keterangan   "Milo Kaleng,Ukuran 300ml, 1 Dus Isi 12 Kaleng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp120.000" .
+
+p:P11        d:Nama	        "Le Minerale 330ml" ;
+             d:Jenis       	"Minuman Botol" ;
+             d:Keterangan   "Le Minerale,Air Putih,Ukuran 330ml, 1 Dus Isi 24 Kaleng" ;
+             d:Pengawet     "Tidak" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp53.900" .
+
+p:P12        d:Nama	        "Pristine 600ml" ;
+             d:Jenis       	"Minuman Botol" ;
+             d:Keterangan   "Prestine,Air Putih,Ukuran 600ml, 1 Dus Isi 24 Kaleng" ;
+             d:Pengawet     "Tidak" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp110.000" .
+
+p:P13        d:Nama	        "Aqua Cup 220ml" ;
+             d:Jenis       	"Minuman Botol" ;
+             d:Keterangan   "Air Putih,Aqua,Ukuran 220ml, 1 Dus Isi 48 Kaleng" ;
+             d:Pengawet     "Tidak" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp49.500" .
+
+p:P14        d:Nama	        "Floridina 350ml" ;
+             d:Jenis       	"Minuman Botol" ;
+             d:Keterangan   "Floridina,Minuman rasa Jeruk,Ukuran 350ml, 1 Dus Isi 12 Kaleng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp34.000" .
+             
+p:P15        d:Nama	        "Ichi Ocha Teh Melati 350ml" ;
+             d:Jenis       	"Minuman Botol" ;
+             d:Keterangan   "Ichi Ocha,Teh Melati,Ukuran 350ml, 1 Dus Isi 12 Kaleng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp29.000" .
+
+p:P16        d:Nama	        "Bembeng Caramel 12s" ;
+             d:Jenis       	"Snack" ;
+             d:Keterangan   "Makanan Coklat,Isi 20,Snack Murah" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp40.000" .
+
+p:P17        d:Nama	        "Mintz" ;
+             d:Jenis       	"Permen" ;
+             d:Keterangan   "Makanan,Permen,Manis" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp7.000" .
+
+p:P18        d:Nama	        "Better Sandwich Biscuit 10s" ;
+             d:Jenis       	"Snack,Biskuit" ;
+             d:Keterangan   "Makanan Ringan,Coklat,Kue,Isi 10" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp15.000" .
+
+p:P19        d:Nama	        "Permen Jahe" ;
+             d:Jenis       	"Perman" ;
+             d:Keterangan   "Permen Manis,Permen Jahe,Permen Pedas,Makanan,manis" ;
+             d:Pengawet     "Tidak" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp50.000" .
+
+p:P20        d:Nama	        "Sari Gandum Coklat 115gr" ;
+             d:Jenis       	"Biskuit,Makanan,Cemilan,Snack" ;
+             d:Keterangan   "Coklat,Roma,Biskuit,Coklat,Makanan Ringan" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp8.500" .
+
+p:P21        d:Nama	        "Khong Guan Saltcheese Cracker 200gr" ;
+             d:Jenis       	"Makanan,Kue,Cemilan,Snack" ;
+             d:Keterangan   "Keju,makanan Ringan,200gram,Khong Guan" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp15.000" .
+
+p:P22        d:Nama	        "Champ Chicken Nugget 250gr" ;
+             d:Jenis       	"Frozen Food" ;
+             d:Keterangan   "Frozen Food,Nugget,Naget,250,gram,Champ,Ayam,Makanan Berat,Nuget" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp23.265" .
+
+p:P23        d:Nama	        "So ECO Fish Stick 500gr" ;
+             d:Jenis       	"Frozen Food" ;
+             d:Keterangan   "Ikan,500,Gram,Frozen Food,Fish Stick,Makanan Berat" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp25.000" .
+
+p:P24        d:Nama	        "Kentang KK 1KG" ;
+             d:Jenis       	"Frozen Food" ;
+             d:Keterangan   "Kentang,1KG,Frozen Food,Goreng<makanan Berat,kentang Goreng" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp34.000" .
+
+p:P25        d:Nama	        "ABC Sarden 155gr" ;
+             d:Jenis       	"Makanan Kaleng" ;
+             d:Keterangan   "Sarden Tomat,155 gram,Goreng,Kaleng Kecil,Makanan Berat" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp12.000" .
+
+p:P26        d:Nama	        "Sarden Bantan 155gr" ;
+             d:Jenis       	"makanan Kaleng" ;
+             d:Keterangan   "Sarden Saus Tomat,155 gram,Makan Berat,Goreng,Kaleng Kecil" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp8.000" .
+
+p:P27        d:Nama	        "Pronas Mackerel Saus Pedas 425gr" ;
+             d:Jenis       	"makanan Kaleng" ;
+             d:Keterangan   "Makanan Pedas,Kaleng Kecil" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp19.500" .
+
+p:P28        d:Nama	        "Pronas Tuna Sambal Goreng 185gr" ;
+             d:Jenis       	"Makanan Kaleng" ;
+             d:Keterangan   "Goreng,Makanan Pedas,Kaleng Kecil,185 gram,Pronas,Ikan" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp15.000" .
+
+p:P29        d:Nama	        "Pronas Kornet Sapi 198gr" ;
+             d:Jenis       	"Makanan Kaleng" ;
+             d:Keterangan   "Makanan Kaleng,Goreng,198 Gram,Pronas,Sapi" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp35.000" .
+
+p:P30        d:Nama	        "Pronas Kornet Sapi Sachet 50gr" ;
+             d:Jenis       	"Snack,Makanan Berat" ;
+             d:Keterangan   "Kornet,Snack,50 gram,Langsung Makan,Pronas" ;
+             d:Pengawet     "Buatan" ;
+             d:Usia         "Anak-anak, Dewasa, Lanjut Usia" ;
+             d:Harga        "Rp120.000" .
