@@ -26,7 +26,7 @@
   if (isset($_POST['search-Nama'])) {
     $test = $_POST['search-Nama'];
     $data = sparql_get(
-      "http://localhost:3030/sedrink",
+      "http://localhost:3030/semweb",
       "
       PREFIX p: <http://semweb.com>
       PREFIX d: <http://semweb.com/ns/data#>
@@ -88,7 +88,7 @@
 
     <!-- About -->
     <section id="about">
-      <div class="container footer">
+      <div class="container footer backgroundyey">
       
 
         <div class="row tentang">
